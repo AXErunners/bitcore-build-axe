@@ -59,7 +59,7 @@
     "karma-detect-browsers": "^2.2.4",
     "karma-mocha": "^1.3.0",
     "karma-phantomjs-launcher": "^1.0.4",
-    "lozash": "^4.17.4",
+    "lodash": "^4.17.4",
     "mocha": "^3.2.0",
     "plato": "^1.7.0",
     "run-sequence": "^1.2.2"
